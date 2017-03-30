@@ -1,4 +1,5 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
 Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Injury Prevention Center,"12 Charter Oak Pl, Hartford, CT 06106",41.75694,-72.67354,"12 CHARTER OAK PL, HARTFORD, CT, 06106",Exact,US Census
+Connecticut Children's Medical Center,"282 Washington St, Hartford, CT 06106",41.755585,-72.682594,"282 WASHINGTON ST, HARTFORD, CT, 06106",Exact,US Census
+Trinfo Cafe,"1300 Broad Street, Hartford CT 06106",41.752262,-72.68711,"1300 BROAD ST, HARTFORD, CT, 06106",Match,US Census
